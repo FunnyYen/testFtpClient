@@ -13,7 +13,6 @@ public class FtpClientUtils {
         String server = "127.0.0.1";
         int port = 21;
         String user = "jack";
-        String pass = "Funnyw53401";
 
         FTPClient ftpClient = new FTPClient();
         try {
